@@ -12,6 +12,6 @@ https://github.com/Tech-C2016/RubyStudy2016
 
 
 ### 20160618
-https://github.com/y-matsumoto/Lecture/lecture/20160618.md
+https://github.com/y-matsumoto/Lecture/blob/master/lecture/Ruby(2016-2017)/20160618.md
 
 ### 20160625
