@@ -1,7 +1,7 @@
 # Lecture
 講義関連のreadmeを配置
 
-## list
+## doing
 
 ### Ruby(2016-2017)
 
